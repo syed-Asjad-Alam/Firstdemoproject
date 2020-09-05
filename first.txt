@@ -1,2 +1,3 @@
 Hello world
 changes from team member
+changes through smart git
